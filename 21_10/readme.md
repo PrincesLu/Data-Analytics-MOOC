@@ -1,4 +1,4 @@
 ## 12 Hourse intense course 
--- goals: 
+- goals go through everything data science related in Python
 
 
