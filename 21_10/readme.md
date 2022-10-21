@@ -1,3 +1,4 @@
-## 12 Hourse intense course dedicated to explain everything Data Science related 
+## 12 Hourse intense course 
+-- goals: 
 
 
