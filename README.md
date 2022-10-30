@@ -1,1 +1,1 @@
-# ML-AI-MOOC and Full Courses 
+# ML/AI MOOC and Full Courses 
