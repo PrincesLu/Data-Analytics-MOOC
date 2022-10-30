@@ -1,4 +1,4 @@
-# Short ML project that contains the following steps:  
+# Short Machine Learning project that contains the following steps:  
 
 1. Importing the Music Data Set
 2. Preparing the Data
